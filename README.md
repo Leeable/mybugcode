@@ -1,2 +1,2 @@
 # mybugcode
-opened repository
+Opened repository
